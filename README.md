@@ -1,4 +1,12 @@
-****Pizza Sales Report ****
+**Pizza Sales Report**
+
+![image](https://github.com/user-attachments/assets/85c32530-e52f-4737-a5eb-ab8c5fa1e7ee)
+
+
+![image](https://github.com/user-attachments/assets/794dad61-45c5-47f6-bb27-6739b6146bab)
+
+
+
 
 **The Goal of this project is to analyse and provide insight on Key Performance Indiactors and Sales Trends, Create a visual for it and Provide Recommendations that could be useful to make Valuable Business Decisions in the future.**
 
@@ -39,7 +47,3 @@ The Pizza Sales Dataset  has significant amount of data of around 49k on  Differ
 
 
 
-
-
-pizza_id	order_id	pizza_name_id	quantity	order_date	order_time	unit_price	total_price	pizza_size	pizza_category	pizza_ingredients	pizza_name
-![image](https://github.com/user-attachments/assets/1fea40fd-31d7-4aaa-b2c7-3890c282810f)
